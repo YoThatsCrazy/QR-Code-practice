@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-[My live URL here.](https://yothatscrazy.github.io/QR-Code-practice/)
+[QR Code Card](https://yothatscrazy.github.io/QR-Code-practice/)
 
 ## My process
 
