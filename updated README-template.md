@@ -18,9 +18,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](C:\Users\erica\OneDrive\Desktop\QR Code practice\images\qr-screenshot.jpg)
 
+
 ### Links
 
-- Live Site URL: [Add live site URL here](https://yothatscrazy.github.io/QR-Code-practice/)
+[My live URL here.](https://yothatscrazy.github.io/QR-Code-practice/)
 
 ## My process
 
